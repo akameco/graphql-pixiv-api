@@ -20,9 +20,7 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "files": [
-    "index.js"
-  ],
+  "files": ["index.js", "schema.js"],
   "dependencies": {
     "compression": "^1.7.0",
     "express": "^4.15.4",
