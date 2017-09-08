@@ -52,7 +52,6 @@ type Illust {
 }
 
 type Query {
-  users: [User!]!
   ranking(mode: Mode = "mode"): [Illust!]!
 }
 `)
