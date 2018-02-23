@@ -25,14 +25,14 @@
     "compression": "^1.7.0",
     "express": "^4.15.4",
     "express-graphql": "^0.6.11",
-    "graphql": "^0.11.3",
+    "graphql": "^0.13.1",
     "nodemon": "^1.12.0",
-    "pixiv-app-api": "^0.10.0"
+    "pixiv-app-api": "^0.11.0"
   },
   "devDependencies": {
     "eslint": "^4.6.0",
-    "eslint-config-precure": "^0.8.0",
-    "jest": "^20.0.4",
+    "eslint-config-precure": "^2.4.0",
+    "jest": "^22.4.2",
     "prettier": "^1.6.1"
   }
 }
